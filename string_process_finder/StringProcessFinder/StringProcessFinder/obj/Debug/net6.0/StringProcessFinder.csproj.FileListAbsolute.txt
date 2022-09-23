@@ -1,0 +1,15 @@
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\bin\Debug\net6.0\StringProcessFinder.exe
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\bin\Debug\net6.0\StringProcessFinder.deps.json
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\bin\Debug\net6.0\StringProcessFinder.runtimeconfig.json
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\bin\Debug\net6.0\StringProcessFinder.dll
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\bin\Debug\net6.0\StringProcessFinder.pdb
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.csproj.AssemblyReference.cache
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.AssemblyInfoInputs.cache
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.AssemblyInfo.cs
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.csproj.CoreCompileInputs.cache
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.dll
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\refint\StringProcessFinder.dll
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.pdb
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\StringProcessFinder.genruntimeconfig.cache
+C:\Users\namst\Desktop\string_process_finder\StringProcessFinder\StringProcessFinder\obj\Debug\net6.0\ref\StringProcessFinder.dll
