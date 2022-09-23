@@ -1,5 +1,4 @@
 import os
-from turtle import pos
 
 possible_spider_textures: list[str] = [
     'TextureResource/5c1b36123d91854c7e3fa48f03bf38b2b6ace2b9df3ff6455349d48aea57ca4f',
